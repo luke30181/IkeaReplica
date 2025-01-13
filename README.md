@@ -1,5 +1,5 @@
 ![img1](https://github.com/user-attachments/assets/6569ff6e-bc3e-4ff8-a802-cd09df5b176f)
-Progetto creato in gruppo di un sistema di carrello della spesa per una piattaforma di e-commerce con prodotti elencati in un catalogo <br>
+Progetto creato in gruppo che rappresenta un carrello della spesa per una piattaforma di e-commerce con prodotti elencati in un catalogo <br>
 Creato con: Springboot + Maven
 
 ![image](https://github.com/user-attachments/assets/7648ef5a-7a05-4ac4-a8ae-1b78899fcd92) <br>
