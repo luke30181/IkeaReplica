@@ -14,7 +14,7 @@ Tecnologie utilizzate: <br>
 <ul>
   <li>Java + Springboot <img style="width: 20px; height: 20px;" src="https://c8.alamy.com/comp/PH8262/java-logo-illustration-programming-technology-PH8262.jpg"> <img style="width: 20px; height: 20px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgu8cRVSRm96BF4FEJ4DA9IROZYI1wYR0RRA&s"> </li>
 </ul>
-<strong>Dipendenze Java: </strong>
+<strong>Dipendenze Springboot: </strong>
 <ul>
   <li>mysql-connector <img style="width: 20px; height: 20px;" src="https://cyclr.com/wp-content/uploads/2022/03/ext-556.png"> </li>
   <li>Stripe <img style="width: 20px; height: 20px;" src="https://cdn.iconscout.com/icon/free/png-256/free-stripe-logo-icon-download-in-svg-png-gif-file-formats--flat-social-media-branding-pack-logos-icons-498440.png"> </li>
